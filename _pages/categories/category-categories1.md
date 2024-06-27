@@ -3,7 +3,7 @@ title: "secure"
 layout: category
 permalink: /categories/secure/
 author_profile: true
-taxonomy: Categories1
+taxonomy: secure
 sidebar:
-  nav: "categories"
+  nav: "secure"
 ---
