@@ -1,6 +1,6 @@
 ---
 title: 파이썬으로 필요한 정보 scraping
-excerpt: 본문의 주요 내용을 여기에 입력하세요
+excerpt: python FLASK, WSGI,docker 빌드, 서버 구축, 웹뷰 APP
 categories:
   - development
 tags:
