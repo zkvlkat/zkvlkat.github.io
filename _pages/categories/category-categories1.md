@@ -1,7 +1,7 @@
 ---
-title: "Categories1"
+title: "secure"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/secure/
 author_profile: true
 taxonomy: Categories1
 sidebar:
