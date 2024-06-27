@@ -6,11 +6,11 @@ categories:
 tags:
   - - tag1
     - tag2
-permalink: /categories1/pythonScraping/
+permalink: /categories4/pythonScraping/
 toc: true
 toc_sticky: true
-date: {2024.06.27}
-last_modified_at: {2024.06.27 16:43}
+date: {}
+last_modified_at: {}
 ---
 
 ## 발단
