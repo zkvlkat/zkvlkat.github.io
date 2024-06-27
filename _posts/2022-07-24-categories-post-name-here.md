@@ -9,8 +9,9 @@ tags:
 permalink: /categories4/pythonScraping/
 toc: true
 toc_sticky: true
-date: {}
-last_modified_at: {}
+
+date: 2024-06-27
+last_modified_at: 2024-06-27
 ---
 
 ## 발단
