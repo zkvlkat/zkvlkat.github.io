@@ -2,11 +2,11 @@
 title: 파이썬으로 필요한 정보 scraping
 excerpt: 본문의 주요 내용을 여기에 입력하세요
 categories:
-  - Categories1
+  - development
 tags:
   - - tag1
     - tag2
-permalink: /categories4/pythonScraping/
+permalink: /development/pythonScraping/
 toc: true
 toc_sticky: true
 
