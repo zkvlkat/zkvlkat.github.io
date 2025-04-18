@@ -21,8 +21,8 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "secure"
-    url: /categories/secure/
+  - title: "cybersecurity"
+    url: /categories/cybersecurity/
   - title: "development"
     url: /categories/development/
   - title: "AI"
