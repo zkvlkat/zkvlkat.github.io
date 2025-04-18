@@ -7,7 +7,7 @@ categories:
 tags:
   - [워게임]
 
-permalink: /categories/cybersecurity/
+permalink: /cybersecurity/wargames/
 
 toc: true
 toc_sticky: true
