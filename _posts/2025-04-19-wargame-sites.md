@@ -7,7 +7,7 @@ categories:
 tags:
   - - tag1
     - tag2
-permalink: /development/wargames/
+permalink: /categories/cybersecurity/wargames/
 
 toc: true
 toc_sticky: true
