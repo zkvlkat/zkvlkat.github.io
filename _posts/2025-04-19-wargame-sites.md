@@ -1,12 +1,12 @@
 ---
-title: "워게임 사이트 모음"
-excerpt: "워게임 사이트 기록용"
+title: 워게임 사이트 모음
+excerpt: 워게임 사이트 기록용
 
 categories:
   - cybersecurity
 tags:
-  - [워게임]
-
+  - - tag1
+    - tag2
 permalink: /cybersecurity/wargames/
 
 toc: true
