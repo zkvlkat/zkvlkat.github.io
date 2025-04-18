@@ -1,9 +1,9 @@
 ---
-title: "secure"
+title: "cybersecurity"
 layout: category
-permalink: /categories/secure/
+permalink: /categories/cybersecurity/
 author_profile: true
-taxonomy: secure
+taxonomy: cybersecurity
 sidebar:
-  nav: "secure"
+  nav: "cybersecurity"
 ---
