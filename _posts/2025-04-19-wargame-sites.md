@@ -1,6 +1,6 @@
 ---
-title: "[test포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "워게임 사이트 모음"
+excerpt: "워게임 사이트 기록용"
 
 categories:
   - Categories4
@@ -12,8 +12,8 @@ permalink: /categories4/post-name-here-5/
 toc: true
 toc_sticky: true
 
-date: 2022-07-24
-last_modified_at: 2022-07-24
+date: 2025-04-19
+last_modified_at: 2025-04-19
 ---
 
 ## 💻 워게임 🏴‍☠️
@@ -23,6 +23,7 @@ last_modified_at: 2022-07-24
 
 2. Hacker 101 CTF
 HackerOne에서 운영하는 웹 해킹 중심의 실습 플랫폼으로, 버그바운티에 특화된 CTF 문제 제공
+
 [https://docs.hackerone.com/en/articles/8456935-hacker-101](https://docs.hackerone.com/en/articles/8456935-hacker-101)
 
 4. pwnable. kr
