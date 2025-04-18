@@ -12,8 +12,8 @@ permalink: /cybersecurity/wargames/
 toc: true
 toc_sticky: true
 
-date: 2024-04-19
-last_modified_at: 2024-04-19
+date: 2025-04-18
+last_modified_at: 2025-04-18
 ---
 
 ## 💻 워게임 🏴‍☠️
