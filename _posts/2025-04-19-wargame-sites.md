@@ -3,7 +3,7 @@ title: "워게임 사이트 모음"
 excerpt: "워게임 사이트 기록용"
 
 categories:
-  - cybersecurity
+  - etc
 tags:
   - [tag1, tag2]
 
