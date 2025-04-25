@@ -34,9 +34,3 @@ categories:
     
   - title: "logs"
     url: /categories/logs/
-    
-
-  - title: "Title3"
-    children:
-      - title: "Categories7"
-        url: /categories/categories7/
