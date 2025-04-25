@@ -20,12 +20,18 @@ main:
 
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
+
 categories:
   - title: "cybersecurity"
-    url: /categories/cybersecurity/
-  - title: "development"
-    url: /categories/development/
+    children:
+      - title: "web"
+        url: /cybersecurity/web/
+      - title: "etc"
+        url: /cybersecurity/etc/
+        
   - title: "AI"
     url: /categories/AI/
+    
   - title: "logs"
     url: /categories/logs/
+
