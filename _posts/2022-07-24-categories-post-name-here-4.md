@@ -1,9 +1,9 @@
 ---
-title: "워게임 사이트 모음"
-excerpt: "워게임 사이트 기록용"
+title: "테스트 글"
+excerpt: "테스트 글"
 
 categories:
-  - Categories4
+  - web
 tags:
   - [tag1, tag2]
 
